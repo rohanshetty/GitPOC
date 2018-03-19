@@ -8,6 +8,7 @@ namespace GitPOC
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Developer 2: Change 1");
+            Console.WriteLine("Developer 2: Change 2");
         }
     }
 }
