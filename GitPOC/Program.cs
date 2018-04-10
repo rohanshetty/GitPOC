@@ -11,6 +11,7 @@ namespace GitPOC
             Console.WriteLine("Developer 1: Change 2");
             Console.WriteLine("Developer 2: Change 1");
             Console.WriteLine("Developer 2: Change 2");
+            Console.WriteLine("Developer 2: Change 3");
         }
     }
 }
